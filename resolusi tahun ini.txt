@@ -1,2 +1,4 @@
 RESOLUSI YANG MAU DICAPAI TAHUN INI
 - Mempelajari html & css
+- Mempelajari php
+- Mempelajari database

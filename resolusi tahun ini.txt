@@ -1,5 +1,5 @@
 RESOLUSI YANG MAU DICAPAI TAHUN INI
-- Mempelajari html & css
-- Mempelajari database
-- Membuat web sederhana
+- Mempelajari html & css (selesai)
+- Mempelajari database (on going)
+- Membuat web sederhana (on going)
 - Mempelajari framework laravel

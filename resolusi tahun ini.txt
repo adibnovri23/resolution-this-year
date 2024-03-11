@@ -1,5 +1,8 @@
 RESOLUSI YANG MAU DICAPAI TAHUN INI
 - Mempelajari html & css (selesai)
+- Belajar Javascript
 - Membuat web mvc dengan php native (on going)
 - Mempelajari database dan menghubungkannya dengan web mvc (on going)
-- Mempelajari framework laravel untuk beackend dan bootstrap untuk frontend
+- Mempelajari framework laravel untuk backend dan bootstrap untuk frontend
+- Mempelajari AWS cloud 
+- Belajar NodeJS untuk Backend
